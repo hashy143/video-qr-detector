@@ -96,7 +96,7 @@
     let isLoopScheduled = false;
 
     const SCAN_INTERVAL = 350;
-    const HOLD_TIME_MS = 2500;
+    const HOLD_TIME_MS = 1000;
     const MAX_QR_COUNT = 4;
 
     function clearAllOverlays() {
