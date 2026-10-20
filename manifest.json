@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Video QR Detector",
+  "version": "1.0",
+  "description": "Автоматически находит QR-коды в видео и выводит кликабельную ссылку",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Video QR Detector"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["jsqr.js", "content.js"],
+      "css": ["overlay.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
