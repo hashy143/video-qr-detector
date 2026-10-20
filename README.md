@@ -1,5 +1,6 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:312E81,100:2563EB&height=200&section=header&text=Video%20QR%20Detector&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Detect%20QR%20codes%20inside%20videos&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Video QR Detector banner"/>`{=html}
+::: <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:312E81,100:2563EB&height=200&section=header&text=Video%20QR%20Detector&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Detect%20QR%20codes%20inside%20videos&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Video QR Detector banner" />
+</p>
 
 **A browser extension that detects QR codes in video frames and displays
 clickable links.**
