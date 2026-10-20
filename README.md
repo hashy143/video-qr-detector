@@ -95,13 +95,6 @@ use case.
 -   The repository should include the referenced popup, stylesheet, and
     QR-decoder library files for the complete extension to work.
 
-## 🛣️ Roadmap
-
--   [ ] Test across more video players and websites.
--   [ ] Improve handling of duplicate and short-lived detections.
--   [ ] Add screenshots or a short demo.
--   [ ] Review permissions and document browser compatibility.
-
 ------------------------------------------------------------------------
 
 <p align="center">
